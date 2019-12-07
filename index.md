@@ -9,6 +9,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 # Publications
 - [***Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier***](https://doi.org/10.34048/ADCOM.2018.Paper.9)
   **Swarnashree Mysore Sathyendra** \*, Ranjana Seshadri \*, Rajdeep Pal \* (\* - equal contribution)
+  
   24th International Conference on Advanced Computing and Communications (ADCOM 2018), IIIT-Bangalore, 2018
 
 
