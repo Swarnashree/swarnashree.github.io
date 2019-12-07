@@ -13,6 +13,11 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
  <br/> **Swarnashree Mysore Sathyendra** \*, Ranjana Seshadri \*, Rajdeep Pal \* (\* - equal contribution)
  <br/> 24th International Conference on Advanced Computing and Communications (ADCOM 2018), IIIT-Bangalore, 2018
 
+## Select Projects
+- **Real-time Person Detection in Videos based on Natural Language Description**
+<br/> Built a working end-to-end system comprising of various modules that leveraged on deep learning models trained with fine-tuning. 
+<br/> Modules: Human Figure detection, Body Segmentation, Gender Detection, Clothing and its apparel style detection
+<br/> This project led to a publication at ADCOM 2018
 
 [CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
