@@ -26,7 +26,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 ## Professional Experience
 - **Smart FAQ Chatbot**
 <br/> Worked on building a smart FAQ chatbot that was trained on various FAQs in the Legal and Compliance domain. 
-<br/> Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions. ( Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser )
+<br/> Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions (Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser).
 
 
 [CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
