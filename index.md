@@ -16,4 +16,4 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 
 [CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
-<span style="color: #d9d9d9; font-size: 1em">*last updated: December 7, 2019*</span>
+<span style="color: #d9d9d9; font-size: 0.75em">*last updated: December 7, 2019*</span>
