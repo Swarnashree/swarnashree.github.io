@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="swarnashree.jfif">
+  <img src="swarnashree.jpg">
 </p>
                                 
 
