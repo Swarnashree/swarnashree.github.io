@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="swarnashree.jpg'>
+  <img src="swarnashree.jpg">
 </p>
                                 
 
