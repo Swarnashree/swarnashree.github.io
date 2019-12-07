@@ -16,7 +16,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 ## Select Projects
 - **Real-time Person Detection in Videos based on Natural Language Description**
 <br/> Built a working end-to-end system comprising of various modules that leveraged on deep learning models trained with fine-tuning. 
-<br/> Modules: Human Figure detection, Body Segmentation, Gender Detection, Clothing and its apparel style detection
+<br/> Modules: Human Figure Detection, Body Segmentation, Gender Detection, Clothing and Apparel Style Detection.
 <br/> This project led to a publication at ADCOM 2018.
 
 - **Factoid Based Question Answering System for Biology Coursebooks**
