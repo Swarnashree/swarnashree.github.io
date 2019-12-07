@@ -17,7 +17,11 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 - **Real-time Person Detection in Videos based on Natural Language Description**
 <br/> Built a working end-to-end system comprising of various modules that leveraged on deep learning models trained with fine-tuning. 
 <br/> Modules: Human Figure detection, Body Segmentation, Gender Detection, Clothing and its apparel style detection
-<br/> This project led to a publication at ADCOM 2018
+<br/> This project led to a publication at ADCOM 2018.
+
+- **Factoid Based Question Answering System for Biology Coursebooks**
+<br/> Build a Q&A system using QANUS skeletal framework. Devised and implemented custom chunking and parsing algorithms. 
+
 
 [CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
