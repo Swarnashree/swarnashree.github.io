@@ -14,6 +14,6 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
  <br/> 24th International Conference on Advanced Computing and Communications (ADCOM 2018), IIIT-Bangalore, 2018
 
 
-[CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: ms dot swarnashree at gmail dot com](mailto:ms.swarnashree@gmail.com)
+[CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
-<span color="grey" font-size="2em">*last upated: December 7, 2019*</span>
+<span style="color: red; font-size: 2em">*last upated: December 7, 2019*</span>
