@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="swarnashree.jpg">
+  <img src="Swarna_image.jpg" width="200" height="200">
 </p>
                                 
 
