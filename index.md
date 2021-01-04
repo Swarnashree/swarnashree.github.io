@@ -6,7 +6,8 @@
 I'm currently a technical analyst at **Goldman Sachs**, Bangalore working on very interesting projects. I completed my BE Degree in Information Science and Engineering from [**PES Institute of Technology**](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
 I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains.
 
-
+## Updates
+- 04/01/2021 Received a fast-track promotion to Technical Associate at Goldman Sachs
 
 ## Publications
 - [***Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier***](https://doi.org/10.34048/ADCOM.2018.Paper.9)
@@ -29,6 +30,6 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 <br/> Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions (Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser).
 
 
-[CV](SWARNASHREE_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
+[CV](Swarnashree_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
-<span style="color: #d9d9d9; font-size: 0.75em">*last updated: December 7, 2019*</span>
+<span style="color: #d9d9d9; font-size: 0.75em">*last updated: January 4, 2021*</span>
