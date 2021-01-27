@@ -1,16 +1,16 @@
-<p align="center">
+<!---<p align="center">
   <img src="swarnashree.png" width="250" height="250">
-</p>
+</p> -->
                                 
 
-I'm currently working as a technical associate at **Goldman Sachs**, Bangalore working on very interesting projects. I completed my BE Degree in Information Science and Engineering from [**PES Institute of Technology**](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
+I'm currently working as a technical associate at **Goldman Sachs**, Bangalore working on very interesting projects. I completed my BE Degree in Information Science and Engineering from [PES Institute of Technology](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
 I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains and building **scalable, secure** ML systems.
 
 ## Updates
 - 04/01/2021 Received a fast-track promotion to **Technical Associate** at Goldman Sachs
 
 ## Publications
-- [***Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier***](https://doi.org/10.34048/ADCOM.2018.Paper.9)
+- [*Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier*](https://doi.org/10.34048/ADCOM.2018.Paper.9)
  <br/> **Swarnashree Mysore Sathyendra** \*, Ranjana Seshadri \*, Rajdeep Pal \*, Dr. S Natarajan (\* - equal contribution)
  <br/> 24th International Conference on Advanced Computing and Communications (ADCOM 2018), IIIT-Bangalore, 2018
 
