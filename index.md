@@ -8,7 +8,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 
 ## Updates
 - **04/01/2021** Received a fast-track promotion to **Technical Associate** at Goldman Sachs
-- **08/11/2019** Presented at **Grace Hopper Celebration 2019**, representing Goldman Sachs
+- **08/11/2019** Attending **Grace Hopper Celebration India 2019** as a Speaker, representing Goldman Sachs
 
 ## Publications
 - [*Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier*](https://doi.org/10.34048/ADCOM.2018.Paper.9)
