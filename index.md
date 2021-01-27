@@ -7,7 +7,7 @@ I'm currently working as a technical associate at **Goldman Sachs**, Bangalore w
 I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains and building **scalable, secure** ML systems.
 
 ## Updates
-- 04/01/2021 Received a fast-track promotion to **Technical Associate** at Goldman Sachs
+- **04/01/2021** Received a fast-track promotion to **Technical Associate** at Goldman Sachs
 
 ## Publications
 - [*Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier*](https://doi.org/10.34048/ADCOM.2018.Paper.9)
@@ -35,4 +35,5 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 
 [CV](Swarnashree_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
-<span style="color: #d9d9d9; font-size: 0.75em">*last updated: January 27, 2021*</span>
+<span style="color: black; font-size: 0.75em">*last updated: January 27, 2021*</span>
+<!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: January 27, 2021*</span>-->
