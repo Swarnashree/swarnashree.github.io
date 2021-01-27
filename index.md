@@ -8,6 +8,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 
 ## Updates
 - **04/01/2021** Received a fast-track promotion to **Technical Associate** at Goldman Sachs
+- **08/11/2019** Presented at **Grace Hopper Celebration 2019**, representing Goldman Sachs
 
 ## Publications
 - [*Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier*](https://doi.org/10.34048/ADCOM.2018.Paper.9)
@@ -16,22 +17,22 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 
 ## Select Projects
 - **Real-time Person Detection in Videos based on Natural Language Description**
-<br/> Built a working end-to-end system comprising of various modules that leveraged on deep learning models trained with fine-tuning. 
-<br/> Modules: Human Figure Detection, Body Segmentation, Gender Detection, Clothing and Apparel Style Detection.
-<br/> This project led to a publication at ADCOM 2018.
+  - Built a working end-to-end system comprising of various modules that leveraged on deep learning models trained with fine-tuning. 
+  - Modules: Human Figure Detection, Body Segmentation, Gender Detection, Clothing and Apparel Style Detection.
+  - This project led to a publication at ADCOM 2018.
 
 - **Factoid Based Question Answering System for Biology Coursebooks**
-<br/> Build a Q&A system using QANUS skeletal framework. Devised and implemented custom chunking and parsing algorithms. 
+  <br/> Built a Q&A system using QANUS skeletal framework. Devised and implemented custom chunking and parsing algorithms. 
 <br/><br/> **Please refer to CV for more details on various other projects**
 
 ## Professional Experience
 - **Smart FAQ Chatbot**
-<br/> Worked on building a smart FAQ chatbot that was trained on various FAQs in the Legal and Compliance domain. 
-<br/> Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions (Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser).
+  - Worked on building a smart FAQ chatbot that was trained on various FAQs in the Legal and Compliance domain. 
+  - Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions (Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser).
 
 - **Data Ingestion Pipeline**
-<br/> Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
-<br/>Leveraged Presto as query engine and spark optimizations, yarn for resource management
+  - Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
+  - Leveraged Presto as query engine and spark optimizations, yarn for resource management
 
 [CV](Swarnashree_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
