@@ -4,7 +4,7 @@
                                 
 
 I'm currently working as a technical associate at **Goldman Sachs**, Bangalore working on very interesting projects. I completed my BE Degree in Information Science and Engineering from [**PES Institute of Technology**](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
-I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains and building scalable, secure ML systems.
+I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains and building **scalable, secure** ML systems.
 
 ## Updates
 - 04/01/2021 Received a fast-track promotion to **Technical Associate** at Goldman Sachs
