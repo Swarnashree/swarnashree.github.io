@@ -28,6 +28,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 - **Smart FAQ Chatbot**
 <br/> Worked on building a smart FAQ chatbot that was trained on various FAQs in the Legal and Compliance domain. 
 <br/> Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions (Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser).
+
 - **Data Ingestion Pipeline**
 <br/> Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
 <br/>Leveraged Presto as query engine and spark optimizations, yarn for resource management
