@@ -4,7 +4,7 @@
                                 
 
 I'm currently working as a technical associate at **Goldman Sachs**, Bangalore working on very interesting projects. I completed my BE Degree in Information Science and Engineering from [**PES Institute of Technology**](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
-I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains.
+I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** and **Computer Vision** domains and building scalable, secure ML systems.
 
 ## Updates
 - 04/01/2021 Received a fast-track promotion to **Technical Associate** at Goldman Sachs
@@ -28,8 +28,10 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 - **Smart FAQ Chatbot**
 <br/> Worked on building a smart FAQ chatbot that was trained on various FAQs in the Legal and Compliance domain. 
 <br/> Took up complete ownership of the entire lifecycle of the product that also included building an efficient solution for retrieving answers for the questions (Implemented word-jumbling techniques, auto correct using hunspell, SVD for dimensionality reduction and ConceptNet based semantic parser).
-
+- **Data Ingestion Pipeline**
+<br/> Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
+<br/>Leveraged Presto as query engine and spark optimizations, yarn for resource management
 
 [CV](Swarnashree_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
-<span style="color: #d9d9d9; font-size: 0.75em">*last updated: January 4, 2021*</span>
+<span style="color: #d9d9d9; font-size: 0.75em">*last updated: January 27, 2021*</span>
