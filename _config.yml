@@ -1,5 +1,7 @@
 title: Swarnashree Mysore Sathyendra
 description: My Personal Webpage
+plugins:
+  - jekyll-seo-tag
 logo: swarnashree.png
 show_downloads: true
 theme: jekyll-theme-minimal
