@@ -11,7 +11,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 - **08/11/2019** Attending **Grace Hopper Celebration India 2019** as a Speaker, representing Goldman Sachs
 
 ## Publications
-- *Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier*
+- **Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier**
  <br/> **Swarnashree Mysore Sathyendra** \*, Ranjana Seshadri \*, Rajdeep Pal \*, Dr. S Natarajan (\* - equal contribution)
  <br/> 24th International Conference on Advanced Computing and Communications (ADCOM 2018), IIIT-Bangalore, 2018
  <br/> [[Paper]](https://doi.org/10.34048/ADCOM.2018.Paper.9)
