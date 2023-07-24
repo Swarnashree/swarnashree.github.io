@@ -10,7 +10,7 @@ In the past, I have worked with Prof. Alan W Black on downstream tasks like keyw
 I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** domains and building **scalable, secure** ML systems.
 
 ## Publications
--**[Multi-Dimensional Evaluation of Text Summarization with In-Context Learning](https://aclanthology.org/2023.findings-acl.537/)**
+- **[Multi-Dimensional Evaluation of Text Summarization with In-Context Learning](https://aclanthology.org/2023.findings-acl.537/)**
 <br/> Sameer Jain, Vaishakh Keshava, **Swarnashree Mysore Sathyendra**, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou
 <br/> Findings of the Association for Computational Linguistics: ACL 2023, Toronto, Canada
 
@@ -25,7 +25,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 - **08/11/2019** Attending **Grace Hopper Celebration India 2019** as a Speaker, representing Goldman Sachs
 
 ## Select Projects
--**Multiparty Conversational Emotion Recognition:**
+- **Multiparty Conversational Emotion Recognition:**
   - Implemented an RNN-based approach to use \textbf{prior acoustic and emotion context} to predict future emotional state with performance improvements of \textbf{3\%} in weighted-F1 score over non-contexualized models
   - 
 - **Real-time Person Detection in Videos based on Natural Language Description**
@@ -46,7 +46,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
   - Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
   - Leveraged Presto as query engine and spark optimizations, yarn for resource management
 
-[CV](Swarnashree_MS_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
+[CV](Swarnashree_Mysore_Sathyendra_CV.pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
 <span style="color: black; font-size: 0.75em">*last updated: July 24, 2023*</span>
 <!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: July 24, 2023*</span>-->
