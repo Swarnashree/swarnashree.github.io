@@ -2,9 +2,9 @@
   <img src="swarnashree.png" width="250" height="250">
 </p> -->
                                 
-Hello! I am an NLP/ML enthusiast. I recently completed Masters of Science degree in Intelligent Information Systems (LTI department) at [Carnegie Mellon University, Pittsburgh](https://www.lti.cs.cmu.edu/people/222227570/swarnashree-mysore-sathyendra).
+Hello! I am an NLP/ML enthusiast currently working as an NLP Research Engineer. My current work delves into supervised fine-tuning of LLMs, parameter efficient fine-tuning of LMs and LLMs, distributed training pipelines for these LLMs, RAG based use cases for LLMs. I am also exploring unsupervised topic classification models. 
 
-I have interned at Amazon Alexa AI as an applied scientist in the past, working on fairness in Entity Resolution models.
+I completed Masters of Science degree in Intelligent Information Systems (LTI department) at [Carnegie Mellon University, Pittsburgh](https://www.lti.cs.cmu.edu/people/222227570/swarnashree-mysore-sathyendra). I have interned at Amazon Alexa AI as an applied scientist in the past, working on fairness in Entity Resolution models.
 In the past, I have worked with Prof. Alan W Black on downstream tasks like keyword tagging for low resource language speech. Currently, I work at a private investment research firm, as an NLP Engineering Expert. I work on parameter efficient fine-tuning of language models(LMs) like BERT useful for the finance domain. I am also working on distributed training of such LMs and taking care of the ML pipeline end-to-end.Between 2018-2021, I worked as a Software Development Engineer 2 at **Goldman Sachs**, Bangalore and contributed to some very interesting projects. I completed my BE Degree in Information Science and Engineering from [PES Institute of Technology](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
 
 I'm most interested in tackling problems in the **Machine Learning**, **Natural Language Processing** domains and building **scalable, secure** ML systems.
@@ -22,7 +22,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 ## Updates
 - **05/2023** Our paper on multi dimensional evaluation of text generation tasks using LLMs got accepted into ACL Findings 2023
 - **31/08/2021** Started my degree at CMU
-- **04/01/2021** Received a accelerated promotion to **Software Developemnt Enginer 2)**(Technical Asssociate) at Goldman Sachs
+- **04/01/2021** Received an accelerated promotion to **Software Developemnt Enginer 2)**(Technical Asssociate) at Goldman Sachs
 - **08/11/2019** Attending **Grace Hopper Celebration India 2019** as a Speaker, representing Goldman Sachs
 
 ## Select Projects
@@ -48,7 +48,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
   - Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
   - Leveraged Presto as query engine and spark optimizations, yarn for resource management
 
-[CV](Swarnashree_Mysore_Sathyendra_CV%20(11).pdf)  |  [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
+[CV]()  | [Scholar](https://scholar.google.com/citations?hl=en&user=qPKInOUAAAAJ) | [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
 <span style="color: black; font-size: 0.75em">*last updated: July 24, 2023*</span>
 <!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: July 24, 2023*</span>-->
