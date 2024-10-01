@@ -48,7 +48,7 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
   - Currently building an ingestion pipeline and one-stop store for division-wide data, reducing consumption time for downstream applications from 48 hours to less than 1 hour.
   - Leveraged Presto as query engine and spark optimizations, yarn for resource management
 
-[CV](Swarnashree_Mysore_Sathyendra_CV_website.pdf)  | [Scholar](https://scholar.google.com/citations?hl=en&user=qPKInOUAAAAJ) | [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
+[CV](Swarnashree_Mysore_Sathyendra_Resume.pdf)  | [Scholar](https://scholar.google.com/citations?hl=en&user=qPKInOUAAAAJ) | [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
 <span style="color: black; font-size: 0.75em">*last updated: June 16, 2024*</span>
 <!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: June 16, 2024*</span>-->
