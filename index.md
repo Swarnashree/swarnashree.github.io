@@ -2,7 +2,40 @@
   <img src="swarnashree.png" width="250" height="250">
 </p> -->
                                 
-Hello! I am an NLP/ML enthusiast currently working as an NLP Research Engineer. My current work delves into supervised fine-tuning of LLMs, parameter efficient fine-tuning of LMs and LLMs, distributed training pipelines for these LLMs, RAG based use cases for LLMs. I am also exploring unsupervised topic classification models. 
+I am a machine learning and natural language processing researcher working on **AI alignment, post-training, and evaluation for large language models**.
+
+I'm currently a **Member of Technical Staff at [Reflection AI](https://reflection.ai/research)**, where I work on post-training and alignment research for frontier language models. I am especially interested in developing methods that make large language models more reliable when they generate answers, follow instructions, use provided context, and abstain when they do not have enough evidence.
+
+Before Reflection AI, I was an **ML Research Engineer at [Scale AI](https://labs.scale.com/)**, where I worked on evaluation systems for human-annotated data quality, reward modeling, RLHF, rubric-guided preference data selection, and alignment pipelines for frontier AI models. 
+I have also interned at **Amazon Alexa AI** on fairness in entity resolution models, and worked at **Goldman Sachs** as a software development engineer.
+
+I obtained my masters from the **[Language Technologies Institute, School of Computer Science, Carnegie Mellon University](https://www.lti.cs.cmu.edu/)**.
+
+## Publications
+
+**[Chasing the Tail: Effective Rubric-based Reward Modeling for Large Language Model Post-Training](https://arxiv.org/pdf/2509.21500)**  
+Junkai Zhang, Zihao Wang, Lin Gui, Swarnashree Mysore Sathyendra, Jaehwan Jeong, Victor Veitch, Wei Wang, Yunzhong He, Bing Liu, Lifeng Jin  
+*International Conference on Learning Representations (ICLR), 2026*  
+
+**[Multi-Dimensional Evaluation of Text Summarization with In-Context Learning in LLMs](https://aclanthology.org/2023.findings-acl.537/)**  
+Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou  
+*Findings of the Association for Computational Linguistics: ACL 2023*  
+
+**[Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier](https://doi.org/10.34048/ADCOM.2018.Paper.9)**  
+Swarnashree Mysore Sathyendra\*, Rajdeep Pal\*, Ranjana Seshadri\*, S. Natarajan  
+*24th International Conference on Advanced Computing and Communications (ADCOM), IIIT Bangalore, 2019*  
+
+**Real-time Text-Search on Encrypted Data**  
+Presented in association with Goldman Sachs at Grace Hopper Conference India, 2019  
+
+## Links
+
+[Scholar](https://scholar.google.com/citations?hl=en&user=qPKInOUAAAAJ) | [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
+
+<span style="color: black; font-size: 0.75em">*last updated: May 31, 2026*</span>
+
+
+<!---Hello! I am an NLP/ML enthusiast currently working as an NLP Research Engineer. My current work delves into supervised fine-tuning of LLMs, parameter efficient fine-tuning of LMs and LLMs, distributed training pipelines for these LLMs, RAG based use cases for LLMs. I am also exploring unsupervised topic classification models. 
 
 I completed Masters of Science degree in Intelligent Information Systems (LTI department) at [Carnegie Mellon University, Pittsburgh](https://www.lti.cs.cmu.edu/people/222227570/swarnashree-mysore-sathyendra). I have interned at Amazon Alexa AI as an applied scientist in the past, working on fairness in Entity Resolution models.
 In the past, I have worked with Prof. Alan W Black on downstream tasks like keyword tagging for low resource language speech. Currently, I work at a private investment research firm, as an NLP Engineering Expert. I work on parameter efficient fine-tuning of language models(LMs) like BERT useful for the finance domain. I am also working on distributed training of such LMs and taking care of the ML pipeline end-to-end.Between 2018-2021, I worked as a Software Development Engineer 2 at **Goldman Sachs**, Bangalore and contributed to some very interesting projects. I completed my BE Degree in Information Science and Engineering from [PES Institute of Technology](https://www.pes.edu/), Bangalore (Batch of 2014-2018). 
@@ -51,4 +84,4 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 [CV](Swarnashree_Mysore_Sathyendra_Resume.pdf)  | [Scholar](https://scholar.google.com/citations?hl=en&user=qPKInOUAAAAJ) | [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
 <span style="color: black; font-size: 0.75em">*last updated: June 16, 2024*</span>
-<!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: June 16, 2024*</span>-->
+<!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: June 16, 2024*</span>-->-->
