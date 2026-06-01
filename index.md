@@ -9,7 +9,7 @@ I'm currently a **Member of Technical Staff at [Reflection AI](https://reflectio
 Before Reflection AI, I was an **ML Research Engineer at [Scale AI](https://labs.scale.com/)**, where I worked on evaluation systems for human-annotated data quality, reward modeling, RLHF, rubric-guided preference data selection, and alignment pipelines for frontier AI models. 
 I have also interned at **Amazon Alexa AI** on fairness in entity resolution models, and worked at **Goldman Sachs** as a software development engineer.
 
-I obtained my masters from the **[Language Technologies Institute, School of Computer Science, Carnegie Mellon University](https://www.lti.cs.cmu.edu/)**.
+I obtained my masters from the **[Language Technologies Institute, CMU](https://www.lti.cs.cmu.edu/)**.
 
 ## Publications
 
@@ -84,4 +84,4 @@ I'm most interested in tackling problems in the **Machine Learning**, **Natural 
 [CV](Swarnashree_Mysore_Sathyendra_Resume.pdf)  | [Scholar](https://scholar.google.com/citations?hl=en&user=qPKInOUAAAAJ) | [LinkedIn](https://in.linkedin.com/in/swarnashree-mysore-sathyendra-47621a136)  |  [Mail: *ms dot swarnashree at gmail dot com*](mailto:ms.swarnashree@gmail.com)
 
 <span style="color: black; font-size: 0.75em">*last updated: June 16, 2024*</span>
-<!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: June 16, 2024*</span>-->-->
+<!---<span style="color: #d9d9d9; font-size: 0.75em">*last updated: June 16, 2024*</span>-->
