@@ -14,18 +14,22 @@ I obtained my masters from the [Language Technologies Institute, CMU](https://ww
 ## Publications
 
 [Chasing the Tail: Effective Rubric-based Reward Modeling for Large Language Model Post-Training](https://arxiv.org/pdf/2509.21500) 
+
 Junkai Zhang, Zihao Wang, Lin Gui, Swarnashree Mysore Sathyendra, Jaehwan Jeong, Victor Veitch, Wei Wang, Yunzhong He, Bing Liu, Lifeng Jin  
 *International Conference on Learning Representations (ICLR), 2026*  
 
 [Multi-Dimensional Evaluation of Text Summarization with In-Context Learning in LLMs](https://aclanthology.org/2023.findings-acl.537/)  
+
 Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou  
 *Findings of the Association for Computational Linguistics: ACL 2023*  
 
 [Real-Time Headgear Detection in Videos Using Deep Learning Based Feature Extraction with A Supervised Classifier](https://doi.org/10.34048/ADCOM.2018.Paper.9)
+
 Swarnashree Mysore Sathyendra\*, Rajdeep Pal\*, Ranjana Seshadri\*, S. Natarajan  
 *24th International Conference on Advanced Computing and Communications (ADCOM), IIIT Bangalore, 2019*  
 
 **Real-time Text-Search on Encrypted Data**  
+
 Presented in association with Goldman Sachs at Grace Hopper Conference India, 2019  
 
 
