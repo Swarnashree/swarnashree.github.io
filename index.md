@@ -2,14 +2,14 @@
   <img src="swarnashree.png" width="250" height="250">
 </p> -->
                                 
-I am a machine learning and natural language processing researcher working on **AI alignment, post-training, and evaluation for large language models**.
+I am a machine learning and natural language processing researcher working on post-training,specifically alignment and evaluation for large language models.
 
-I'm currently a **Member of Technical Staff at [Reflection AI](https://reflection.ai/research)**, where I work on post-training and alignment research for frontier language models. I am especially interested in developing methods that make large language models more reliable when they generate answers, follow instructions, use provided context, and abstain when they do not have enough evidence.
+I'm currently a Member of Technical Staff at [Reflection AI](https://reflection.ai/research), where I work on post-training and alignment research for frontier language models. I am especially interested in developing methods that make large language models more reliable when they generate answers, follow instructions, use provided context, and abstain when they do not have enough evidence.
 
-Before Reflection AI, I was an **ML Research Engineer at [Scale AI](https://labs.scale.com/)**, where I worked on evaluation systems for human-annotated data quality, reward modeling, RLHF, rubric-guided preference data selection, and alignment pipelines for frontier AI models. 
-I have also interned at **Amazon Alexa AI** on fairness in entity resolution models, and worked at **Goldman Sachs** as a software development engineer.
+Before Reflection AI, I was an ML Research Engineer at [Scale AI](https://labs.scale.com/), where I worked on evaluation systems for human-annotated data quality, reward modeling, RLHF, rubric-guided preference data selection, and alignment pipelines for frontier AI models. 
+I have also interned at Amazon Alexa AI on fairness in entity resolution models, and worked at Goldman Sachs as a software development engineer.
 
-I obtained my masters from the **[Language Technologies Institute, CMU](https://www.lti.cs.cmu.edu/)**.
+I obtained my masters from the [Language Technologies Institute, CMU](https://www.lti.cs.cmu.edu/).
 
 ## Publications
 
